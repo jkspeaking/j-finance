@@ -1,0 +1,15 @@
+{
+  "name": "J Finance",
+  "short_name": "J Finance",
+  "description": "Private cash flow and accounts. Encrypted on your device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFC72C",
+  "theme_color": "#FBF1E4",
+  "icons": [
+    { "src": "brand/app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "brand/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "brand/app-icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
